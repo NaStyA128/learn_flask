@@ -1,0 +1,6 @@
+.idea/
+.cache/
+test.db
+*.py[co]
+.env
+tmp/
